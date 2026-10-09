@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Excel Sales Automation project
+output/
+~$*.xlsx
