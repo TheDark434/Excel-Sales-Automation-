@@ -33,6 +33,7 @@ Create Excel charts
 Create a management dashboard
 Export cleaned sales data separately
 Handle common input-data errors with clear messages
+
 Project Structure
 excel_sales_automation/
 │
@@ -60,6 +61,7 @@ excel_sales_automation/
 ├── requirements.txt
 └── README.md
 Data Pipeline
+
 Raw Excel Files
        │
        ▼
