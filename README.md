@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Excel Sales Automation System
 
 A Python-based Excel sales automation system that transforms raw sales data from multiple branch Excel files into cleaned datasets, analytical reports, formatted workbooks, charts, and an interactive-style management dashboard.
@@ -290,3 +291,7 @@ Support for additional input formats
 Author
 
 Built as a Python automation and data-analysis portfolio project.
+=======
+# Excel-Sales-Automation-
+The Excel Sales Automation System is a Python-based project designed to automate the process of cleaning, validating, analyzing, and reporting sales data stored in Excel files. It reduces manual effort, improves data consistency, and transforms raw sales data into meaningful business insights.
+>>>>>>> c2dba8d455f32632e192861f491e63c600fdefa0
